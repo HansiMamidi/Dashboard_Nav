@@ -51,8 +51,8 @@
 }
 
 canvas {
-  width: 25vw; /* Adjust the width as needed */
-  height: 25vh; /* Adjust the height as needed */
+  width: 25vw;
+  height: 25vh;
   margin: 0 auto;
 }
 
