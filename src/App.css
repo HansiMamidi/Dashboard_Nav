@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+/* Add alternating row colors */
+.p-datatable-striped .row-even {
+  background-color: #f8f8f8;
+}
+
+.p-datatable-striped .row-odd {
+  background-color: #ffffff;
+} 
+
+.App {
+  text-align: center;
+}
+
+canvas {
+  width: 25vw; /* Adjust the width as needed */
+  height: 25vh; /* Adjust the height as needed */
+  margin: 0 auto;
+}
+
