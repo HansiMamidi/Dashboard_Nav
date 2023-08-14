@@ -45,9 +45,6 @@
   font-size: 1.5rem;
 }
 
-/* combined-barchart.css */
-/* ... (previous CSS rules) ... */
-
 .download-menu {
   position: absolute;
   top: 100%; /* Position the menu below the button */
@@ -105,7 +102,6 @@
   cursor: pointer;
 }
 
-/* Add this rule to display the full text of the options on hover */
 .dropdown-content button:hover {
   overflow: visible;
   white-space: normal;
